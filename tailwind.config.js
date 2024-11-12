@@ -9,6 +9,9 @@ export default {
         "divider-custom": "#7a7a7a",
         "icon-custom": "#1f1f1f",
       },
+      backgroundImage: {
+        'custom-gradient': 'linear-gradient(90deg, #af2896, #509bf5)',
+      },
     },
   },
   plugins: [],
